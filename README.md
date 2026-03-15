@@ -1,5 +1,7 @@
 # map-handson
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This project demonstrates how to display maps and markers using SPARQL queries on Google Maps.
 
 ## Features
